@@ -19,4 +19,4 @@ CSS3: Styling for the stopwatch elements.
 
 JavaScript: Logic for stopwatch functionality.
 
-Project Link: 
+Project Link: https://muditgupta07.github.io/Stop-Watch/
